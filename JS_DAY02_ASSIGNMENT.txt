@@ -1,0 +1,24 @@
+1) Write a blog on the Difference between document & window objects.
+
+
+       Document object                              window object
+
+
+     i) it is output of elements     i) it is output of HTML,CSS & 
+        in HTML page.                        javascript & all other Backend 
+                                             configuration.
+     
+    ii)Its attribute are title,url       ii) its attribute are length,inner height
+       ,cookies etc.                         ,name,open,close.move to,resize etc.
+   
+   iii) Window .document.getelement     iii) window.open()/window.close()/
+         byid()/window.document.body.        window.moveTo/window.resizeTo()
+        firstchild are following method      are following methods by which we can 
+        by which we can trace document       retrace window object easliy. 
+        object in inspect section 
+        easily.                                          
+        
+   iv) its actual theme is that         iv) its actual themes are add visual,
+       acting like structure of             logical in UI pages. 
+       web/app UI pages.
+        
